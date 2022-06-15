@@ -4,7 +4,7 @@ body{
 }
 
 div{
-    background-color: red;
+    background-color:darksalmon;
     width: 300px;
     border: 1px solid black;
 }
@@ -25,7 +25,7 @@ div{
 }
 .longDiv{
     width: 400px;
-    background-color: blue;
+    background-color: darkcyan;
     color: white;
 }
 
