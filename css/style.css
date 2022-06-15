@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding-left: 10px;
+}
+
+div{
+    background-color: red;
+    width: 300px;
+    border: 1px solid black;
+}
+
+.marginDiv{
+    margin: 20px;
+}
+.paddedDiv{
+    padding: 20px;    
+}
+
+.noBorderDiv{
+    border: 0;
+}
+
+.shortDiv{
+    padding: 10px;
+}
+.longDiv{
+    width: 400px;
+    background-color: blue;
+    color: white;
+}
