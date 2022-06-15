@@ -28,3 +28,11 @@ div{
     background-color: blue;
     color: white;
 }
+
+.tobeboxedDiv{
+    padding: 30px;
+    margin: 5px;
+}
+.boxedDiv{
+    box-sizing: border-box;
+}
