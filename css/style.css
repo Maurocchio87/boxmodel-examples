@@ -36,3 +36,7 @@ div{
 .boxedDiv{
     box-sizing: border-box;
 }
+
+.vertMargDiv{
+    margin: 20px 0;
+}
